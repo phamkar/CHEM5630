@@ -10,6 +10,6 @@ AHNA runs with XPLOR NIH, a Python package originally derived from the X-PLOR pr
 of the CHARMM molecular dynamics program around 1984.
 
 XPLOR can be downloaded at https://bit.niddk.nih.gov/xplor-nih/ or be accessed through NMRbox.org
-
+(XPLOR installion tutorial: https://nmr.cit.nih.gov/xplor-nih/doc/current/python/tut.pdf)
 Attached is all necessary input files - for Spanish Flu (PDB 2m74) for the code to duplicate and generate the homodimer structure. Final output file would be ahna_dimer_*.pdb. The strucutre can be analyzed using PyMol or VMD. 
 '''
