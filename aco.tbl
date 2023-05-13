@@ -1,0 +1,395 @@
+!    4 N  -65.305  -33.351    6.223    6.510    1.369 0.836 25 18 Strong
+assign (resid    3 and name C    ) (resid    4 and name N    )
+       (resid    4 and name CA   ) (resid    4 and name C    )    1.0  -65.3   20.0 2
+assign (resid    4 and name N    ) (resid    4 and name CA   )
+       (resid    4 and name C    ) (resid    5 and name N    )    1.0  -33.4   20.0 2
+
+!    5 T  -66.823  -37.264    4.493    6.330    0.937 0.887 25 18 Strong
+assign (resid    4 and name C    ) (resid    5 and name N    )
+       (resid    5 and name CA   ) (resid    5 and name C    )    1.0  -66.8   20.0 2
+assign (resid    5 and name N    ) (resid    5 and name CA   )
+       (resid    5 and name C    ) (resid    6 and name N    )    1.0  -37.3   20.0 2
+
+!    6 V  -65.906  -40.499    3.635    3.691    0.724 0.896 25 18 Strong
+assign (resid    5 and name C    ) (resid    6 and name N    )
+       (resid    6 and name CA   ) (resid    6 and name C    )    1.0  -65.9   20.0 2
+assign (resid    6 and name N    ) (resid    6 and name CA   )
+       (resid    6 and name C    ) (resid    7 and name N    )    1.0  -40.5   20.0 2
+
+!    7 S  -65.939  -39.201    4.050    3.991    0.639 0.887 25 18 Strong
+assign (resid    6 and name C    ) (resid    7 and name N    )
+       (resid    7 and name CA   ) (resid    7 and name C    )    1.0  -65.9   20.0 2
+assign (resid    7 and name N    ) (resid    7 and name CA   )
+       (resid    7 and name C    ) (resid    8 and name N    )    1.0  -39.2   20.0 2
+
+!    8 S  -65.289  -39.798    2.989    3.676    0.576 0.880 25 18 Strong
+assign (resid    7 and name C    ) (resid    8 and name N    )
+       (resid    8 and name CA   ) (resid    8 and name C    )    1.0  -65.3   20.0 2
+assign (resid    8 and name N    ) (resid    8 and name CA   )
+       (resid    8 and name C    ) (resid    9 and name N    )    1.0  -39.8   20.0 2
+
+!    9 F  -67.915  -42.064    3.792    4.400    0.566 0.878 25 18 Strong
+assign (resid    8 and name C    ) (resid    9 and name N    )
+       (resid    9 and name CA   ) (resid    9 and name C    )    1.0  -67.9   20.0 2
+assign (resid    9 and name N    ) (resid    9 and name CA   )
+       (resid    9 and name C    ) (resid   10 and name N    )    1.0  -42.1   20.0 2
+
+!   10 Q  -63.871  -41.180    3.346    4.037    0.575 0.895 25 18 Strong
+assign (resid    9 and name C    ) (resid   10 and name N    )
+       (resid   10 and name CA   ) (resid   10 and name C    )    1.0  -63.9   20.0 2
+assign (resid   10 and name N    ) (resid   10 and name CA   )
+       (resid   10 and name C    ) (resid   11 and name N    )    1.0  -41.2   20.0 2
+
+!   11 V  -63.318  -41.398    3.215    2.711    0.513 0.906 25 18 Strong
+assign (resid   10 and name C    ) (resid   11 and name N    )
+       (resid   11 and name CA   ) (resid   11 and name C    )    1.0  -63.3   20.0 2
+assign (resid   11 and name N    ) (resid   11 and name CA   )
+       (resid   11 and name C    ) (resid   12 and name N    )    1.0  -41.4   20.0 2
+
+!   12 D  -63.879  -43.311    2.606    3.753    0.501 0.918 25 18 Strong
+assign (resid   11 and name C    ) (resid   12 and name N    )
+       (resid   12 and name CA   ) (resid   12 and name C    )    1.0  -63.9   20.0 2
+assign (resid   12 and name N    ) (resid   12 and name CA   )
+       (resid   12 and name C    ) (resid   13 and name N    )    1.0  -43.3   20.0 2
+
+!   13 C  -64.431  -40.456    2.321    2.862    0.522 0.911 25 18 Strong
+assign (resid   12 and name C    ) (resid   13 and name N    )
+       (resid   13 and name CA   ) (resid   13 and name C    )    1.0  -64.4   20.0 2
+assign (resid   13 and name N    ) (resid   13 and name CA   )
+       (resid   13 and name C    ) (resid   14 and name N    )    1.0  -40.5   20.0 2
+
+!   14 F  -66.135  -43.017    2.231    3.281    0.563 0.902 25 18 Strong
+assign (resid   13 and name C    ) (resid   14 and name N    )
+       (resid   14 and name CA   ) (resid   14 and name C    )    1.0  -66.1   20.0 2
+assign (resid   14 and name N    ) (resid   14 and name CA   )
+       (resid   14 and name C    ) (resid   15 and name N    )    1.0  -43.0   20.0 2
+
+!   15 L  -65.439  -36.059    3.431    4.919    0.628 0.897 25 18 Strong
+assign (resid   14 and name C    ) (resid   15 and name N    )
+       (resid   15 and name CA   ) (resid   15 and name C    )    1.0  -65.4   20.0 2
+assign (resid   15 and name N    ) (resid   15 and name CA   )
+       (resid   15 and name C    ) (resid   16 and name N    )    1.0  -36.1   20.0 2
+
+!   16 W  -64.312  -42.420    4.354    5.328    0.668 0.901 25 18 Strong
+assign (resid   15 and name C    ) (resid   16 and name N    )
+       (resid   16 and name CA   ) (resid   16 and name C    )    1.0  -64.3   20.0 2
+assign (resid   16 and name N    ) (resid   16 and name CA   )
+       (resid   16 and name C    ) (resid   17 and name N    )    1.0  -42.4   20.0 2
+
+!   17 H  -66.126  -39.088    4.356    4.839    0.680 0.907 25 18 Strong
+assign (resid   16 and name C    ) (resid   17 and name N    )
+       (resid   17 and name CA   ) (resid   17 and name C    )    1.0  -66.1   20.0 2
+assign (resid   17 and name N    ) (resid   17 and name CA   )
+       (resid   17 and name C    ) (resid   18 and name N    )    1.0  -39.1   20.0 2
+
+!   18 V  -64.776  -42.450    2.148    3.836    0.688 0.902 25 18 Strong
+assign (resid   17 and name C    ) (resid   18 and name N    )
+       (resid   18 and name CA   ) (resid   18 and name C    )    1.0  -64.8   20.0 2
+assign (resid   18 and name N    ) (resid   18 and name CA   )
+       (resid   18 and name C    ) (resid   19 and name N    )    1.0  -42.5   20.0 2
+
+!   19 R  -65.204  -38.998    3.344    4.638    0.715 0.883 25 18 Strong
+assign (resid   18 and name C    ) (resid   19 and name N    )
+       (resid   19 and name CA   ) (resid   19 and name C    )    1.0  -65.2   20.0 2
+assign (resid   19 and name N    ) (resid   19 and name CA   )
+       (resid   19 and name C    ) (resid   20 and name N    )    1.0  -39.0   20.0 2
+
+!   20 K  -66.079  -39.373    3.001    4.288    0.779 0.856 25 18 Strong
+assign (resid   19 and name C    ) (resid   20 and name N    )
+       (resid   20 and name CA   ) (resid   20 and name C    )    1.0  -66.1   20.0 2
+assign (resid   20 and name N    ) (resid   20 and name CA   )
+       (resid   20 and name C    ) (resid   21 and name N    )    1.0  -39.4   20.0 2
+
+!   21 R  -68.161  -38.022    4.320    4.359    0.777 0.850 25 18 Strong
+assign (resid   20 and name C    ) (resid   21 and name N    )
+       (resid   21 and name CA   ) (resid   21 and name C    )    1.0  -68.2   20.0 2
+assign (resid   21 and name N    ) (resid   21 and name CA   )
+       (resid   21 and name C    ) (resid   22 and name N    )    1.0  -38.0   20.0 2
+
+!   22 F  -65.449  -40.639    3.024    4.109    0.806 0.857 25 18 Strong
+assign (resid   21 and name C    ) (resid   22 and name N    )
+       (resid   22 and name CA   ) (resid   22 and name C    )    1.0  -65.4   20.0 2
+assign (resid   22 and name N    ) (resid   22 and name CA   )
+       (resid   22 and name C    ) (resid   23 and name N    )    1.0  -40.6   20.0 2
+
+!   23 A  -65.346  -37.853    3.793    4.489    0.825 0.871 25 18 Strong
+assign (resid   22 and name C    ) (resid   23 and name N    )
+       (resid   23 and name CA   ) (resid   23 and name C    )    1.0  -65.3   20.0 2
+assign (resid   23 and name N    ) (resid   23 and name CA   )
+       (resid   23 and name C    ) (resid   24 and name N    )    1.0  -37.9   20.0 2
+
+!   24 D  -65.786  -27.892    3.770    5.019    0.963 0.871 25 18 Strong
+assign (resid   23 and name C    ) (resid   24 and name N    )
+       (resid   24 and name CA   ) (resid   24 and name C    )    1.0  -65.8   20.0 2
+assign (resid   24 and name N    ) (resid   24 and name CA   )
+       (resid   24 and name C    ) (resid   25 and name N    )    1.0  -27.9   20.0 2
+
+!   25 Q  -93.945    8.893    4.250    6.362    1.183 0.870 25 18 Strong
+assign (resid   24 and name C    ) (resid   25 and name N    )
+       (resid   25 and name CA   ) (resid   25 and name C    )    1.0  -93.9   20.0 2
+assign (resid   25 and name N    ) (resid   25 and name CA   )
+       (resid   25 and name C    ) (resid   26 and name N    )    1.0    8.9   20.0 2
+
+!   26 E   58.518   38.343    5.398    7.990    1.734 0.869 25 18 Strong
+assign (resid   25 and name C    ) (resid   26 and name N    )
+       (resid   26 and name CA   ) (resid   26 and name C    )    1.0   58.5   20.0 2
+assign (resid   26 and name N    ) (resid   26 and name CA   )
+       (resid   26 and name C    ) (resid   27 and name N    )    1.0   38.3   20.0 2
+
+!   29 D  -98.608  160.420   20.435   31.390    2.102 0.863 25 16 Strong
+assign (resid   28 and name C    ) (resid   29 and name N    )
+       (resid   29 and name CA   ) (resid   29 and name C    )    1.0  -98.6   40.9 2
+assign (resid   29 and name N    ) (resid   29 and name CA   )
+       (resid   29 and name C    ) (resid   30 and name N    )    1.0  160.4   62.8 2
+
+!   30 A  -60.524  -45.496    6.449    4.059    1.402 0.882 25 15 Strong
+assign (resid   29 and name C    ) (resid   30 and name N    )
+       (resid   30 and name CA   ) (resid   30 and name C    )    1.0  -60.5   20.0 2
+assign (resid   30 and name N    ) (resid   30 and name CA   )
+       (resid   30 and name C    ) (resid   31 and name N    )    1.0  -45.5   20.0 2
+
+!   31 P  -60.194  -40.128    5.106    5.448    0.781 0.888 25 15 Strong
+assign (resid   30 and name C    ) (resid   31 and name N    )
+       (resid   31 and name CA   ) (resid   31 and name C    )    1.0  -60.2   20.0 2
+assign (resid   31 and name N    ) (resid   31 and name CA   )
+       (resid   31 and name C    ) (resid   32 and name N    )    1.0  -40.1   20.0 2
+
+!   32 F  -66.356  -41.923    4.536    5.529    0.570 0.892 25 16 Strong
+assign (resid   31 and name C    ) (resid   32 and name N    )
+       (resid   32 and name CA   ) (resid   32 and name C    )    1.0  -66.4   20.0 2
+assign (resid   32 and name N    ) (resid   32 and name CA   )
+       (resid   32 and name C    ) (resid   33 and name N    )    1.0  -41.9   20.0 2
+
+!   33 L  -65.883  -35.627    4.274    4.554    0.443 0.882 25 18 Strong
+assign (resid   32 and name C    ) (resid   33 and name N    )
+       (resid   33 and name CA   ) (resid   33 and name C    )    1.0  -65.9   20.0 2
+assign (resid   33 and name N    ) (resid   33 and name CA   )
+       (resid   33 and name C    ) (resid   34 and name N    )    1.0  -35.6   20.0 2
+
+!   34 D  -66.362  -40.477    3.391    4.976    0.428 0.887 25 18 Strong
+assign (resid   33 and name C    ) (resid   34 and name N    )
+       (resid   34 and name CA   ) (resid   34 and name C    )    1.0  -66.4   20.0 2
+assign (resid   34 and name N    ) (resid   34 and name CA   )
+       (resid   34 and name C    ) (resid   35 and name N    )    1.0  -40.5   20.0 2
+
+!   35 R  -67.700  -37.870    2.793    5.142    0.388 0.874 25 18 Strong
+assign (resid   34 and name C    ) (resid   35 and name N    )
+       (resid   35 and name CA   ) (resid   35 and name C    )    1.0  -67.7   20.0 2
+assign (resid   35 and name N    ) (resid   35 and name CA   )
+       (resid   35 and name C    ) (resid   36 and name N    )    1.0  -37.9   20.0 2
+
+!   36 L  -66.084  -42.021    3.567    3.995    0.430 0.869 25 18 Strong
+assign (resid   35 and name C    ) (resid   36 and name N    )
+       (resid   36 and name CA   ) (resid   36 and name C    )    1.0  -66.1   20.0 2
+assign (resid   36 and name N    ) (resid   36 and name CA   )
+       (resid   36 and name C    ) (resid   37 and name N    )    1.0  -42.0   20.0 2
+
+!   37 R  -65.597  -39.264    3.194    3.812    0.507 0.857 25 18 Strong
+assign (resid   36 and name C    ) (resid   37 and name N    )
+       (resid   37 and name CA   ) (resid   37 and name C    )    1.0  -65.6   20.0 2
+assign (resid   37 and name N    ) (resid   37 and name CA   )
+       (resid   37 and name C    ) (resid   38 and name N    )    1.0  -39.3   20.0 2
+
+!   38 R  -66.077  -42.348    2.282    2.985    0.534 0.867 25 18 Strong
+assign (resid   37 and name C    ) (resid   38 and name N    )
+       (resid   38 and name CA   ) (resid   38 and name C    )    1.0  -66.1   20.0 2
+assign (resid   38 and name N    ) (resid   38 and name CA   )
+       (resid   38 and name C    ) (resid   39 and name N    )    1.0  -42.3   20.0 2
+
+!   39 D  -67.502  -38.428    3.919    4.535    0.622 0.877 25 18 Strong
+assign (resid   38 and name C    ) (resid   39 and name N    )
+       (resid   39 and name CA   ) (resid   39 and name C    )    1.0  -67.5   20.0 2
+assign (resid   39 and name N    ) (resid   39 and name CA   )
+       (resid   39 and name C    ) (resid   40 and name N    )    1.0  -38.4   20.0 2
+
+!   40 Q  -63.393  -40.356    3.843    4.683    0.638 0.892 25 18 Strong
+assign (resid   39 and name C    ) (resid   40 and name N    )
+       (resid   40 and name CA   ) (resid   40 and name C    )    1.0  -63.4   20.0 2
+assign (resid   40 and name N    ) (resid   40 and name CA   )
+       (resid   40 and name C    ) (resid   41 and name N    )    1.0  -40.4   20.0 2
+
+!   41 K  -66.012  -40.305    3.874    4.503    0.570 0.880 25 18 Strong
+assign (resid   40 and name C    ) (resid   41 and name N    )
+       (resid   41 and name CA   ) (resid   41 and name C    )    1.0  -66.0   20.0 2
+assign (resid   41 and name N    ) (resid   41 and name CA   )
+       (resid   41 and name C    ) (resid   42 and name N    )    1.0  -40.3   20.0 2
+
+!   42 S  -64.788  -40.305    2.139    3.069    0.566 0.863 25 18 Strong
+assign (resid   41 and name C    ) (resid   42 and name N    )
+       (resid   42 and name CA   ) (resid   42 and name C    )    1.0  -64.8   20.0 2
+assign (resid   42 and name N    ) (resid   42 and name CA   )
+       (resid   42 and name C    ) (resid   43 and name N    )    1.0  -40.3   20.0 2
+
+!   43 L  -67.854  -38.917    3.678    4.862    0.528 0.843 25 18 Strong
+assign (resid   42 and name C    ) (resid   43 and name N    )
+       (resid   43 and name CA   ) (resid   43 and name C    )    1.0  -67.9   20.0 2
+assign (resid   43 and name N    ) (resid   43 and name CA   )
+       (resid   43 and name C    ) (resid   44 and name N    )    1.0  -38.9   20.0 2
+
+!   44 R  -66.524  -39.317    3.893    4.399    0.507 0.840 25 17 Strong
+assign (resid   43 and name C    ) (resid   44 and name N    )
+       (resid   44 and name CA   ) (resid   44 and name C    )    1.0  -66.5   20.0 2
+assign (resid   44 and name N    ) (resid   44 and name CA   )
+       (resid   44 and name C    ) (resid   45 and name N    )    1.0  -39.3   20.0 2
+
+!   45 G  -66.276  -39.734    5.583    5.550    0.503 0.836 25 17 Strong
+assign (resid   44 and name C    ) (resid   45 and name N    )
+       (resid   45 and name CA   ) (resid   45 and name C    )    1.0  -66.3   20.0 2
+assign (resid   45 and name N    ) (resid   45 and name CA   )
+       (resid   45 and name C    ) (resid   46 and name N    )    1.0  -39.7   20.0 2
+
+!   46 R  -66.396  -39.889    2.765    3.903    0.504 0.834 25 16 Strong
+assign (resid   45 and name C    ) (resid   46 and name N    )
+       (resid   46 and name CA   ) (resid   46 and name C    )    1.0  -66.4   20.0 2
+assign (resid   46 and name N    ) (resid   46 and name CA   )
+       (resid   46 and name C    ) (resid   47 and name N    )    1.0  -39.9   20.0 2
+
+!   47 G  -60.006  -43.792    4.978    4.639    0.534 0.836 25 17 Strong
+assign (resid   46 and name C    ) (resid   47 and name N    )
+       (resid   47 and name CA   ) (resid   47 and name C    )    1.0  -60.0   20.0 2
+assign (resid   47 and name N    ) (resid   47 and name CA   )
+       (resid   47 and name C    ) (resid   48 and name N    )    1.0  -43.8   20.0 2
+
+!   48 S  -65.043  -38.499    3.372    4.060    0.562 0.836 25 17 Strong
+assign (resid   47 and name C    ) (resid   48 and name N    )
+       (resid   48 and name CA   ) (resid   48 and name C    )    1.0  -65.0   20.0 2
+assign (resid   48 and name N    ) (resid   48 and name CA   )
+       (resid   48 and name C    ) (resid   49 and name N    )    1.0  -38.5   20.0 2
+
+!   49 T  -67.820  -29.654    3.941    5.513    0.573 0.828 25 18 Strong
+assign (resid   48 and name C    ) (resid   49 and name N    )
+       (resid   49 and name CA   ) (resid   49 and name C    )    1.0  -67.8   20.0 2
+assign (resid   49 and name N    ) (resid   49 and name CA   )
+       (resid   49 and name C    ) (resid   50 and name N    )    1.0  -29.7   20.0 2
+
+!   50 L  -98.426    0.916    9.113    9.133    0.609 0.830 25 17 Strong
+assign (resid   49 and name C    ) (resid   50 and name N    )
+       (resid   50 and name CA   ) (resid   50 and name C    )    1.0  -98.4   20.0 2
+assign (resid   50 and name N    ) (resid   50 and name CA   )
+       (resid   50 and name C    ) (resid   51 and name N    )    1.0    0.9   20.0 2
+
+!   51 G   76.725   23.222    8.923   11.704    0.698 0.834 25 17 Strong
+assign (resid   50 and name C    ) (resid   51 and name N    )
+       (resid   51 and name CA   ) (resid   51 and name C    )    1.0   76.7   20.0 2
+assign (resid   51 and name N    ) (resid   51 and name CA   )
+       (resid   51 and name C    ) (resid   52 and name N    )    1.0   23.2   23.4 2
+
+!   52 L -127.409  150.630   13.639   10.957    0.766 0.859 25 17 Strong
+assign (resid   51 and name C    ) (resid   52 and name N    )
+       (resid   52 and name CA   ) (resid   52 and name C    )    1.0 -127.4   27.3 2
+assign (resid   52 and name N    ) (resid   52 and name CA   )
+       (resid   52 and name C    ) (resid   53 and name N    )    1.0  150.6   21.9 2
+
+!   53 D  -86.503  117.287   14.480   14.870    0.763 0.861 25 18 Strong
+assign (resid   52 and name C    ) (resid   53 and name N    )
+       (resid   53 and name CA   ) (resid   53 and name C    )    1.0  -86.5   29.0 2
+assign (resid   53 and name N    ) (resid   53 and name CA   )
+       (resid   53 and name C    ) (resid   54 and name N    )    1.0  117.3   29.7 2
+
+!   54 I  -63.743  -35.303    6.091    6.603    0.669 0.882 25 18 Strong
+assign (resid   53 and name C    ) (resid   54 and name N    )
+       (resid   54 and name CA   ) (resid   54 and name C    )    1.0  -63.7   20.0 2
+assign (resid   54 and name N    ) (resid   54 and name CA   )
+       (resid   54 and name C    ) (resid   55 and name N    )    1.0  -35.3   20.0 2
+
+!   55 E  -64.846  -40.982    5.562    6.397    0.617 0.884 25 18 Strong
+assign (resid   54 and name C    ) (resid   55 and name N    )
+       (resid   55 and name CA   ) (resid   55 and name C    )    1.0  -64.8   20.0 2
+assign (resid   55 and name N    ) (resid   55 and name CA   )
+       (resid   55 and name C    ) (resid   56 and name N    )    1.0  -41.0   20.0 2
+
+!   56 T  -66.156  -39.147    3.535    3.995    0.529 0.895 25 18 Strong
+assign (resid   55 and name C    ) (resid   56 and name N    )
+       (resid   56 and name CA   ) (resid   56 and name C    )    1.0  -66.2   20.0 2
+assign (resid   56 and name N    ) (resid   56 and name CA   )
+       (resid   56 and name C    ) (resid   57 and name N    )    1.0  -39.1   20.0 2
+
+!   57 A  -65.024  -40.619    2.348    4.124    0.475 0.885 25 18 Strong
+assign (resid   56 and name C    ) (resid   57 and name N    )
+       (resid   57 and name CA   ) (resid   57 and name C    )    1.0  -65.0   20.0 2
+assign (resid   57 and name N    ) (resid   57 and name CA   )
+       (resid   57 and name C    ) (resid   58 and name N    )    1.0  -40.6   20.0 2
+
+!   58 T  -64.228  -41.722    3.616    3.526    0.520 0.886 25 18 Strong
+assign (resid   57 and name C    ) (resid   58 and name N    )
+       (resid   58 and name CA   ) (resid   58 and name C    )    1.0  -64.2   20.0 2
+assign (resid   58 and name N    ) (resid   58 and name CA   )
+       (resid   58 and name C    ) (resid   59 and name N    )    1.0  -41.7   20.0 2
+
+!   59 R  -65.549  -41.450    2.282    4.503    0.636 0.865 25 18 Strong
+assign (resid   58 and name C    ) (resid   59 and name N    )
+       (resid   59 and name CA   ) (resid   59 and name C    )    1.0  -65.5   20.0 2
+assign (resid   59 and name N    ) (resid   59 and name CA   )
+       (resid   59 and name C    ) (resid   60 and name N    )    1.0  -41.5   20.0 2
+
+!   60 A  -65.783  -39.419    3.284    4.323    0.704 0.862 25 17 Strong
+assign (resid   59 and name C    ) (resid   60 and name N    )
+       (resid   60 and name CA   ) (resid   60 and name C    )    1.0  -65.8   20.0 2
+assign (resid   60 and name N    ) (resid   60 and name CA   )
+       (resid   60 and name C    ) (resid   61 and name N    )    1.0  -39.4   20.0 2
+
+!   61 G  -62.993  -38.061    2.876    5.554    0.682 0.857 25 17 Strong
+assign (resid   60 and name C    ) (resid   61 and name N    )
+       (resid   61 and name CA   ) (resid   61 and name C    )    1.0  -63.0   20.0 2
+assign (resid   61 and name N    ) (resid   61 and name CA   )
+       (resid   61 and name C    ) (resid   62 and name N    )    1.0  -38.1   20.0 2
+
+!   62 K  -64.203  -41.243    2.237    4.171    0.839 0.880 25 17 Strong
+assign (resid   61 and name C    ) (resid   62 and name N    )
+       (resid   62 and name CA   ) (resid   62 and name C    )    1.0  -64.2   20.0 2
+assign (resid   62 and name N    ) (resid   62 and name CA   )
+       (resid   62 and name C    ) (resid   63 and name N    )    1.0  -41.2   20.0 2
+
+!   63 Q  -67.063  -38.397    4.215    3.793    0.728 0.889 25 18 Strong
+assign (resid   62 and name C    ) (resid   63 and name N    )
+       (resid   63 and name CA   ) (resid   63 and name C    )    1.0  -67.1   20.0 2
+assign (resid   63 and name N    ) (resid   63 and name CA   )
+       (resid   63 and name C    ) (resid   64 and name N    )    1.0  -38.4   20.0 2
+
+!   64 I  -64.790  -44.309    2.368    4.696    0.587 0.900 25 18 Strong
+assign (resid   63 and name C    ) (resid   64 and name N    )
+       (resid   64 and name CA   ) (resid   64 and name C    )    1.0  -64.8   20.0 2
+assign (resid   64 and name N    ) (resid   64 and name CA   )
+       (resid   64 and name C    ) (resid   65 and name N    )    1.0  -44.3   20.0 2
+
+!   65 V  -63.354  -40.430    3.508    3.791    0.519 0.901 25 18 Strong
+assign (resid   64 and name C    ) (resid   65 and name N    )
+       (resid   65 and name CA   ) (resid   65 and name C    )    1.0  -63.4   20.0 2
+assign (resid   65 and name N    ) (resid   65 and name CA   )
+       (resid   65 and name C    ) (resid   66 and name N    )    1.0  -40.4   20.0 2
+
+!   66 E  -65.180  -38.290    3.644    3.786    0.446 0.898 25 18 Strong
+assign (resid   65 and name C    ) (resid   66 and name N    )
+       (resid   66 and name CA   ) (resid   66 and name C    )    1.0  -65.2   20.0 2
+assign (resid   66 and name N    ) (resid   66 and name CA   )
+       (resid   66 and name C    ) (resid   67 and name N    )    1.0  -38.3   20.0 2
+
+!   67 R  -67.364  -40.141    3.577    3.311    0.456 0.883 25 18 Strong
+assign (resid   66 and name C    ) (resid   67 and name N    )
+       (resid   67 and name CA   ) (resid   67 and name C    )    1.0  -67.4   20.0 2
+assign (resid   67 and name N    ) (resid   67 and name CA   )
+       (resid   67 and name C    ) (resid   68 and name N    )    1.0  -40.1   20.0 2
+
+!   68 I  -65.389  -43.492    3.384    5.678    0.519 0.861 25 18 Strong
+assign (resid   67 and name C    ) (resid   68 and name N    )
+       (resid   68 and name CA   ) (resid   68 and name C    )    1.0  -65.4   20.0 2
+assign (resid   68 and name N    ) (resid   68 and name CA   )
+       (resid   68 and name C    ) (resid   69 and name N    )    1.0  -43.5   20.0 2
+
+!   69 L  -66.690  -33.429    2.755    6.689    0.694 0.830 25 18 Strong
+assign (resid   68 and name C    ) (resid   69 and name N    )
+       (resid   69 and name CA   ) (resid   69 and name C    )    1.0  -66.7   20.0 2
+assign (resid   69 and name N    ) (resid   69 and name CA   )
+       (resid   69 and name C    ) (resid   70 and name N    )    1.0  -33.4   20.0 2
+
+!   70 K  -68.014  -29.309    4.138    6.780    0.908 0.784 25 18 Strong
+assign (resid   69 and name C    ) (resid   70 and name N    )
+       (resid   70 and name CA   ) (resid   70 and name C    )    1.0  -68.0   20.0 2
+assign (resid   70 and name N    ) (resid   70 and name CA   )
+       (resid   70 and name C    ) (resid   71 and name N    )    1.0  -29.3   20.0 2
+
+!   71 E  -87.910   -3.529    8.846   11.380    1.308 0.745 25 18 Strong
+assign (resid   70 and name C    ) (resid   71 and name N    )
+       (resid   71 and name CA   ) (resid   71 and name C    )    1.0  -87.9   20.0 2
+assign (resid   71 and name N    ) (resid   71 and name CA   )
+       (resid   71 and name C    ) (resid   72 and name N    )    1.0   -3.5   22.8 2

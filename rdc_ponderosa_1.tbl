@@ -1,0 +1,413 @@
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid    6 and name HN   )
+       (  resid    6 and name N   ) -12.500  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid    7 and name HN   )
+       (  resid    7 and name N   ) -21.000  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid    8 and name HN   )
+       (  resid    8 and name N   ) -11.000  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid    9 and name HN   )
+       (  resid    9 and name N   ) -7.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   10 and name HN   )
+       (  resid   10 and name N   ) -19.300  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   11 and name HN   )
+       (  resid   11 and name N   ) -15.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   12 and name HN   )
+       (  resid   12 and name N   ) -12.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   13 and name HN   )
+       (  resid   13 and name N   ) -17.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   14 and name HN   )
+       (  resid   14 and name N   ) -17.200  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   15 and name HN   )
+       (  resid   15 and name N   ) -17.500  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   16 and name HN   )
+       (  resid   16 and name N   ) -12.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   18 and name HN   )
+       (  resid   18 and name N   ) -10.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   20 and name HN   )
+       (  resid   20 and name N   ) -14.800  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   21 and name HN   )
+       (  resid   21 and name N   ) -9.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   22 and name HN   )
+       (  resid   22 and name N   ) -11.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   23 and name HN   )
+       (  resid   23 and name N   ) -17.200  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   24 and name HN   )
+       (  resid   24 and name N   ) -19.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   25 and name HN   )
+       (  resid   25 and name N   ) -5.600  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   26 and name HN   )
+       (  resid   26 and name N   ) -3.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   28 and name HN   )
+       (  resid   28 and name N   ) -0.500  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   29 and name HN   )
+       (  resid   29 and name N   ) -11.300  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   30 and name HN   )
+       (  resid   30 and name N   ) -7.300  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   32 and name HN   )
+       (  resid   32 and name N   ) -6.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   33 and name HN   )
+       (  resid   33 and name N   ) -6.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   34 and name HN   )
+       (  resid   34 and name N   )  1.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   35 and name HN   )
+       (  resid   35 and name N   )  0.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   36 and name HN   )
+       (  resid   36 and name N   ) -6.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   37 and name HN   )
+       (  resid   37 and name N   ) -4.200  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   38 and name HN   )
+       (  resid   38 and name N   )  1.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   39 and name HN   )
+       (  resid   39 and name N   ) -3.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   40 and name HN   )
+       (  resid   40 and name N   ) -8.600  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   41 and name HN   )
+       (  resid   41 and name N   ) -2.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   42 and name HN   )
+       (  resid   42 and name N   ) -4.000  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   43 and name HN   )
+       (  resid   43 and name N   ) -12.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   44 and name HN   )
+       (  resid   44 and name N   ) -9.600  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   45 and name HN   )
+       (  resid   45 and name N   ) -3.300  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   46 and name HN   )
+       (  resid   46 and name N   ) -7.800  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   47 and name HN   )
+       (  resid   47 and name N   ) -16.000  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   48 and name HN   )
+       (  resid   48 and name N   ) -4.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   49 and name HN   )
+       (  resid   49 and name N   ) -3.000  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   50 and name HN   )
+       (  resid   50 and name N   )  0.500  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   51 and name HN   )
+       (  resid   51 and name N   ) -2.800  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   52 and name HN   )
+       (  resid   52 and name N   )  3.300  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   53 and name HN   )
+       (  resid   53 and name N   )  0.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   56 and name HN   )
+       (  resid   56 and name N   )  8.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   57 and name HN   )
+       (  resid   57 and name N   )  4.800  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   58 and name HN   )
+       (  resid   58 and name N   )  1.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   59 and name HN   )
+       (  resid   59 and name N   ) -1.500  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   60 and name HN   )
+       (  resid   60 and name N   )  2.800  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   61 and name HN   )
+       (  resid   61 and name N   )  2.100  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   62 and name HN   )
+       (  resid   62 and name N   ) -0.400  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   64 and name HN   )
+       (  resid   64 and name N   ) -1.400  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   65 and name HN   )
+       (  resid   65 and name N   )  1.800  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   66 and name HN   )
+       (  resid   66 and name N   )  4.900  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   67 and name HN   )
+       (  resid   67 and name N   ) -0.400  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   68 and name HN   )
+       (  resid   68 and name N   ) -0.700  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   70 and name HN   )
+       (  resid   70 and name N   )  2.500  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   71 and name HN   )
+       (  resid   71 and name N   ) -8.400  1.00
+
+assign (  resid  360 and name OO   )
+       (  resid  360 and name Z    )
+       (  resid  360 and name X    )
+       (  resid  360 and name Y    )
+       (  resid   73 and name HN   )
+       (  resid   73 and name N   ) -1.200  1.00
+
